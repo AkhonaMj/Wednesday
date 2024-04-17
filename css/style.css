@@ -1,0 +1,19 @@
+h1, h2{
+    color: orangered;
+}
+
+table{
+    text-align: center;
+    border: 2px;
+    border: burlywood;
+}
+p{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+b, i{
+    color: red;
+}
+body{
+    margin: 2%;
+}
